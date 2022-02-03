@@ -17,7 +17,7 @@ const Signin = () => {
               <i className='fas fa-user'></i>
             </div>
             <div>
-              <h5>Username</h5>
+              {/* <h5>Username</h5> */}
               <input className='input' type="text"></input>
             </div>
             </div>
@@ -26,7 +26,7 @@ const Signin = () => {
               <i className='fas fa-lock'></i>
             </div>
             <div>
-              <h5>Password</h5>
+              {/* <h5>Password</h5> */}
               <input className='input' type="password"></input>
             </div>
             </div>
